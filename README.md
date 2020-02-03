@@ -1,5 +1,5 @@
 # Web-Dev_Zaio_DeliverableW3
-Property24 Agent Mobile App
+Deliverables Week 3: Implement Node Todo List App
 
 Step 1: Head to https://nodejs.org/en/ and download the lastest recommended stable version of NodeJS.
 
