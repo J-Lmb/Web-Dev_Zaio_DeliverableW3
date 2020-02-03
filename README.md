@@ -9,3 +9,10 @@ Step 3: Check Node version by typing "node -v" in your terminal.
 
 Step 4: Create your package.json file and install the dependencies.
 
+Step 5: Install express: npm install express -save
+
+Step 6: Install EJS: npm install ejs -save
+
+Step 7: Install body-parser: npm install body-parser -save
+
+
