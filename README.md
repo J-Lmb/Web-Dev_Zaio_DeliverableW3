@@ -15,4 +15,4 @@ Step 6: Install EJS: npm install ejs -save
 
 Step 7: Install body-parser: npm install body-parser -save
 
-
+Step 8: Create the todoController.js that will hold handlers.
