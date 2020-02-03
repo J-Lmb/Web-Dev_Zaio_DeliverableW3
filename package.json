@@ -1,0 +1,19 @@
+{
+  "name": "web-dev_zaio_deliverablew3",
+  "version": "1.0.0",
+  "description": "A small todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Lmb/Web-Dev_Zaio_DeliverableW3.git"
+  },
+  "author": "Joseph Lumbahe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Lmb/Web-Dev_Zaio_DeliverableW3/issues"
+  },
+  "homepage": "https://github.com/J-Lmb/Web-Dev_Zaio_DeliverableW3#readme"
+}
