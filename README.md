@@ -24,3 +24,5 @@ Step 10: Create todo.ejs, set html template.
 Step 11: Render your response inside GET handler.
 
 Step 12: Test app suing: nodemon app, listen on port 3000 on path /todo
+
+Step 13: Add delete handler
