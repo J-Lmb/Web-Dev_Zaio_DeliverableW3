@@ -26,3 +26,13 @@ Step 11: Render your response inside GET handler.
 Step 12: Test app suing: nodemon app, listen on port 3000 on path /todo
 
 Step 13: Add delete handler
+
+Step 14: Install mongoose: npm install mongoose
+
+Step 15: Signup on mongoDB Atlas
+
+Step 16: Connect to DB via todocontroller.js using mongoose
+
+Step 17: Create a Schema and a model based on that Schema
+
+Step 18: Create an dummy item and save it in DB
