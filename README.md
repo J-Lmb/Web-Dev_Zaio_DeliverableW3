@@ -36,3 +36,5 @@ Step 16: Connect to DB via todocontroller.js using mongoose
 Step 17: Create a Schema and a model based on that Schema
 
 Step 18: Create an dummy item and save it in DB
+
+Step 19: Update your POST, GET and DELETE
