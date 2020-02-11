@@ -42,3 +42,7 @@ Step 19: Update your POST, GET and DELETE
 Ready to Launch
 
 # Deliverables Week 3: Implement REST API
+
+# Deliverables Week 3: Hosting of To-Do App on Heroku
+
+https://safe-ridge-15492.herokuapp.com/
