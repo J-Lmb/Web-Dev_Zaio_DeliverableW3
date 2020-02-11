@@ -1,5 +1,5 @@
 # Web-Dev_Zaio_DeliverableW3
-Deliverables Week 3: Implement Node Todo List App
+# Deliverables Week 3: Implement Node Todo List App
 
 Step 1: Head to https://nodejs.org/en/ and download the lastest recommended stable version of NodeJS.
 
@@ -38,3 +38,7 @@ Step 17: Create a Schema and a model based on that Schema
 Step 18: Create an dummy item and save it in DB
 
 Step 19: Update your POST, GET and DELETE
+
+Ready to Launch
+
+# Deliverables Week 3: Implement REST API
