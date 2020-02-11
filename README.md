@@ -46,3 +46,18 @@ Ready to Launch
 # Deliverables Week 3: Hosting of To-Do App on Heroku
 
 https://safe-ridge-15492.herokuapp.com/
+
+# Evidences
+
+Insert Test Data
+![Repo List](Nodejs_pics/insert_test_data.JPG)
+
+Add Items and have it saved in the Database
+![Repo List](Nodejs_pics/adding_data_and_get_saved_in_DB.JPG)
+
+Delete item and update the Database
+![Repo List](Nodejs_pics/elements_deleted_after_having_added.JPG)
+
+Host App on Heroku
+![Repo List](Nodejs_pics/build_heroku_successful.JPG)
+
